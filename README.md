@@ -1,4 +1,6 @@
 # jenkins-k8s-demo
+
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/fcb280b5-d6e1-44f2-84f8-ad3dc3cfccfc.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/jenkins-k8s-demo?orgId=561911742905)  [![Git](https://app.soluble.cloud/api/v1/public/badges/3b116c7b-d137-43a1-beee-aaeecaf27d4e.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/jenkins-k8s-demo?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/862cb70c-b440-45d1-b93f-114ee7a1e6c4.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/jenkins-k8s-demo?orgId=561911742905)  
 A. Install Jenkins in K8s cluster
   
   1. Create a kubernetes cluster
